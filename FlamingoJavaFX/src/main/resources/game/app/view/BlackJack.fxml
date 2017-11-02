@@ -14,7 +14,7 @@
          <center>
       <ImageView fitHeight="100.0" fitWidth="150" preserveRatio="true" smooth="true" BorderPane.alignment="CENTER">
         <image>
-          <Image url="file:///Users/madeline/git/Lab4/FlamingoJavaFX/src/main/resources/img/card_back.png" />
+          <Image url="file:///Users/madeline/git/lab-4-solution/FlamingoJavaFX/src/main/resources/img/card_back.png" />
         </image>
       </ImageView>
          </center>
@@ -39,12 +39,12 @@
                <children>
             <ImageView fitHeight="100.0" fitWidth="150" preserveRatio="true" smooth="true">
               <image>
-                <Image url="file:///Users/madeline/git/Lab4/FlamingoJavaFX/src/main/resources/img/card_back.png" />
+                <Image url="file:///Users/madeline/git/lab-4-solution/FlamingoJavaFX/src/main/resources/img/card_back.png" />
               </image>
             </ImageView>
                   <ImageView fitHeight="100.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:///Users/madeline/git/Lab4/FlamingoJavaFX/src/main/resources/img/12.png" />
+                        <Image url="file:///Users/madeline/git/lab-4-solution/FlamingoJavaFX/src/main/resources/img/12.png" />
                      </image>
                   </ImageView>
                </children>
@@ -59,12 +59,12 @@
                <children>
                   <ImageView fitHeight="100.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:///Users/madeline/git/Lab4/FlamingoJavaFX/src/main/resources/img/2.png" />
+                        <Image url="file:///Users/madeline/git/lab-4-solution/FlamingoJavaFX/src/main/resources/img/10.png" />
                      </image>
                   </ImageView>
             <ImageView fitHeight="100.0" fitWidth="180.0" preserveRatio="true" smooth="true">
               <image>
-                <Image url="file:///Users/madeline/git/Lab4/FlamingoJavaFX/src/main/resources/img/card_back.png" />
+                <Image url="file:///Users/madeline/git/lab-4-solution/FlamingoJavaFX/src/main/resources/img/card_back.png" />
               </image>
             </ImageView>
                </children>
